@@ -1,6 +1,7 @@
 /**
  * @name PackageTests
  * @description This class provide test coverage for code included in the unmanaged package
+ test
 **/
 @isTest
 private class BV_PackageTests {
